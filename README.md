@@ -1,4 +1,5 @@
 # Seattle City Parks
+## Project Description
 This project highlights the public city parks in the Seattle area. 
 
 ## Project Goal
